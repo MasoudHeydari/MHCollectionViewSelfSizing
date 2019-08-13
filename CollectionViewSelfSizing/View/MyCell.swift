@@ -3,11 +3,6 @@
 // Copyright (c) 2019 Masoud Heydari. All rights reserved.
 //
 
-import Foundation
-
-
-import UIKit
-
 import UIKit
 
 class MyCell: UICollectionViewCell {
